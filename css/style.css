@@ -10,12 +10,14 @@ header {
 }
 
 /* link ipertestuale */
+
 a {
     text-decoration: none;
     color:mediumturquoise;
 }
 
 /* testo evidenziato */
+
 .importante {
     background-size: contain;
     background-color:yellow;
