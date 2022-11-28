@@ -8,3 +8,9 @@ header {
     width: 300px;
     padding-top: 100px;
 }
+
+/* link ipertestuale */
+a {
+    text-decoration: none;
+    color:mediumturquoise;
+}
