@@ -21,3 +21,11 @@ a {
     background-color:yellow;
 }
 
+thead {
+    color: antiquewhite;
+    background-color: deepskyblue;
+}
+
+.coloredrow {
+    background-color: aquamarine;
+}
