@@ -1,7 +1,10 @@
-#logo {
-    width: 300px;
+header {
+    background-size: auto;
+    background-color:cornflowerblue;
+    background-image: url(../Img/Img/pattern.png)
 }
 
-header {
-    background-image: url(Img\img\pattern.png)
+#logo {
+    width: 300px;
+    padding-top: 100px;
 }
