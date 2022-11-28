@@ -3,6 +3,5 @@
 }
 
 header {
-    background-image: Img\img\pattern.png;
+    background-image: url(Img\img\pattern.png)
 }
-
