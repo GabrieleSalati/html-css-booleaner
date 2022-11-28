@@ -29,3 +29,21 @@ thead {
 .coloredrow {
     background-color: aquamarine;
 }
+
+article {
+    padding-block: 30px;
+}
+
+ul {
+    padding-left: 15px;
+}
+
+#suggerimenti {
+    color:dimgray;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.elementotab {
+    padding: 15px;
+}
